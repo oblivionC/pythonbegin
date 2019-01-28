@@ -1,2 +1,2 @@
 # pythonbegin
-ı will share my python codes problems and solutions
+ı will share here my python codes problems and solutions
